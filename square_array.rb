@@ -5,5 +5,5 @@ def square_array(array)
     squared_array << element ** 2
     # binding.pry
   end
-
+  squared_array
 end
